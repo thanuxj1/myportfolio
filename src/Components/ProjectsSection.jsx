@@ -10,7 +10,7 @@ const projects = [
     title: "Task Manager App",
     description:
       "Key features included task creation, editing, deletion, stopwatch functionality, and notifications. Demonstrated strong design thinking and the ability to build clean, functional mobile applications.",
-    image: "/public/project1.gif",
+    image: "/project1.gif",
     tags: ["Kotlin", "Java", "Figma"],
     demoUrl: "#",
     githubUrl: "https://github.com/thanuxj1/TaskmanagerMapp",
@@ -20,7 +20,7 @@ const projects = [
     title: "Scholar Vista",
     description:
       "Developed a fully functional research publication management web application with an integrated AI model for research categorization automatic data extraction, research paper analytics",
-    image: "/public/project2.gif",
+    image: "/project2.gif",
     tags: ["React", "Python", "MYSQL", "FastAPI", "Pre-trained AI model"],
     demoUrl: "#",
     githubUrl: "https://github.com/NavodyaDhanushka/Scholar_Vista",
@@ -29,7 +29,7 @@ const projects = [
     id: 3,
     title: "Real-Time Chat Application",
     description: "Developed a web based real-time chat app with chat rooms ",
-    image: "/public/project3.png",
+    image: "/project3.png",
     tags: ["Springboot", "JS", "Java"],
     demoUrl: "#",
     githubUrl: "https://github.com/thanuxj1/chatApp",
@@ -39,7 +39,7 @@ const projects = [
     title: "Inventory System",
     description:
       "Built an admin-based web application for Dhaniya Flora Kandy to manage daily store operations. Key features include inventory tracking, order handling, and store management.",
-    image: "/public/project4.gif",
+    image: "/project4.gif",
     tags: ["MERN", "Vite"],
     demoUrl: "#",
     githubUrl: "https://github.com/thanuxj1/inventorySystem",
