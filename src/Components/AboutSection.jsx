@@ -7,7 +7,7 @@ export const AboutSection = () => {
   const handleDownloadCV = () => {
     // Create a temporary anchor element
     const link = document.createElement('a');
-    link.href = './public/cv.pdf'; // Update this path to match your CV file location
+    link.href = './cv.pdf'; // Update this path to match your CV file location
     link.download = 'THANUJA-CV.pdf'; // This will be the downloaded filename
     document.body.appendChild(link);
     link.click();
