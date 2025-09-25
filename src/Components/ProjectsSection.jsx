@@ -58,7 +58,7 @@ const projects = [
     title: "Full stack E-commerce Website",
     description:
       "full functional e commerce website with admin panel",
-    image: "/project5.gif",
+    image: "/project6.gif",
     tags: ["Inngest", "Nextjs", "Tailwindcss", "MongoDB", "clerk"],
     demoUrl: "https://e-commerce-psi-seven-38.vercel.app/",
     githubUrl: "https://github.com/thanuxj1/E-commerce",
